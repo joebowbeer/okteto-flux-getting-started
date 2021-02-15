@@ -9,7 +9,7 @@ metadata:
 spec:
   releaseName: dev
   chart:
-    git: git@github.com:joebowbeer/flux-getting-started
+    git: git@github.com:joebowbeer/okteto-flux-getting-started
     path: chart
     ref: master
   values:
